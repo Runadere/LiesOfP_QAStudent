@@ -2,7 +2,7 @@
 
 [Title]
 
-Lies of P (demo) Pulse cells used even if health is full.
+Xbox/PlayStation Lies of P (demo) pulse cells used even if health is full.
 
 [Description]
 
